@@ -1,0 +1,1 @@
+Update database credentials in config.php
