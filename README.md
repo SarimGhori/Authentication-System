@@ -1,3 +1,5 @@
+# Demo runs on localhost using XAMPP.
+
 # PHP Authentication System
 
 ## Features
